@@ -1,0 +1,13 @@
+message: "If you use this software, please cite it as below."
+url: "https://github.com/DataMadrid/MADRID/"
+preferred-citation:
+{
+  author       = {Kamran Anwar Tanwari and Paweł Terefenko and Jakub Śledziowski and Andrzej Giza},
+  title        = {Manually Annotated Drone Imagery (RGB) Dataset for automatic coastline delineation of Southern Baltic Sea, Poland with polyline annotations (0.1.0)},
+  month        = May,
+  year         = 2024,
+  publisher    = {Zenodo},
+  version      = {v0.1.0},
+  doi          = {10.5281/zenodo.11237140},
+  url          = {10.5281/zenodo.11237140}
+}
