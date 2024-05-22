@@ -27,7 +27,6 @@ We have provided a requirements file, we recommend using that to set up the rema
 ├── README.md                           <- This file
 ├── Model                               <- Directory containing the training script and trained model
 │   ├── model-unet.ipynb                <- Notebook with training model, dataset visualization scripts, metrics and inference
-│   └── unet_best.pth                   <- Fine-tuned model weights
 └── scripts                             <- Python scripts for resizing and converting annotations
 ```
 
